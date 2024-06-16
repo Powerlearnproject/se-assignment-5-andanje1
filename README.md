@@ -102,7 +102,7 @@ Path Intellisense: Autocomplete for file paths.
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-   Opening and Using the Integrated Terminal:
+   Opening and Using the Integrated Terminal:g
 Opening the Terminal:
 Use Ctrl+ (or View > Terminal) to open the integrated terminal.
 
@@ -188,6 +188,7 @@ Type Git: Add Remote and add the remote URL for your GitHub repository.
 Use Ctrl+Shift+P and type Git: Push to push your commits to GitHub.
 
 References 
+
 Johnson, B. (2019) Visual studio code: End-to-end editing and debugging tools for web developers. INpolis, IN: Wiley. 
 Install and use visual studio code on Windows 10 (VS code) (2019) YouTube. Available at: https://youtu.be/MlIzFUI1QGA?si=mcFYUnCAmmkv7h75 (Accessed: 16 June 2024). 
 
